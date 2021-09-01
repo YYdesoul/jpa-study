@@ -1,5 +1,9 @@
 ## I. 简介
 
+[jpy-study代码](https://github.com/YYdesoul/jpa-study)
+
+[jpy-gradle-study代码](https://github.com/YYdesoul/jpa-gradle-study)
+
 ### ORM
 
 在解释什么是JPA和Spring Data JPA之前我们应该先来了解一下什么是ORM。**ORM(Object-Relational Mapping, 对象关系映射)，是一种面向对象编程语言中的对象和数据库中的数据之间的映射**。使用ORM工具、框架可以让应用程序操作数据库。在过去，有很多针对Java的ORM框架，但是每一套框架都有自己的一套操作方法和规范，这就使得Java程序操作不同数据库时显得杂乱无章。于是乎，Sun公司推出了一套操作持久层（数据库）的规范(API)用于结束这种乱象，这套规范也就是**JPA**。
